@@ -1,0 +1,17 @@
+C:\Projects\c#\BookShop\BookShop\bin\Debug\net6.0\BookShop.exe
+C:\Projects\c#\BookShop\BookShop\bin\Debug\net6.0\BookShop.deps.json
+C:\Projects\c#\BookShop\BookShop\bin\Debug\net6.0\BookShop.runtimeconfig.json
+C:\Projects\c#\BookShop\BookShop\bin\Debug\net6.0\BookShop.dll
+C:\Projects\c#\BookShop\BookShop\bin\Debug\net6.0\BookShop.pdb
+C:\Projects\c#\BookShop\BookShop\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Projects\c#\BookShop\BookShop\obj\Debug\net6.0\BookShop.csproj.AssemblyReference.cache
+C:\Projects\c#\BookShop\BookShop\obj\Debug\net6.0\BookShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\c#\BookShop\BookShop\obj\Debug\net6.0\BookShop.AssemblyInfoInputs.cache
+C:\Projects\c#\BookShop\BookShop\obj\Debug\net6.0\BookShop.AssemblyInfo.cs
+C:\Projects\c#\BookShop\BookShop\obj\Debug\net6.0\BookShop.csproj.CoreCompileInputs.cache
+C:\Projects\c#\BookShop\BookShop\obj\Debug\net6.0\BookShop.csproj.CopyComplete
+C:\Projects\c#\BookShop\BookShop\obj\Debug\net6.0\BookShop.dll
+C:\Projects\c#\BookShop\BookShop\obj\Debug\net6.0\refint\BookShop.dll
+C:\Projects\c#\BookShop\BookShop\obj\Debug\net6.0\BookShop.pdb
+C:\Projects\c#\BookShop\BookShop\obj\Debug\net6.0\BookShop.genruntimeconfig.cache
+C:\Projects\c#\BookShop\BookShop\obj\Debug\net6.0\ref\BookShop.dll
